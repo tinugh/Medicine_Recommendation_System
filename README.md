@@ -1,7 +1,9 @@
-[Screencast from 06-09-23 12:51:02 PM IST.webm](https://github.com/tinugh/Medicine_Recommendation_System/assets/132256255/efb7f371-186e-4431-9dc8-96810a07ab61)
-
 
 # Medicine_Recommendation_System
+
+
+
+[Screencast from 06-09-23 12:51:02 PM IST.webm](https://github.com/tinugh/Medicine_Recommendation_System/assets/132256255/efb7f371-186e-4431-9dc8-96810a07ab61)
 
 
 Experience the Future of Healthcare with MedRecc - Your Personalized Medicine Assistant:
